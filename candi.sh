@@ -824,7 +824,7 @@ cecho ${INFO} "Then copy and paste these instructions into this terminal."
 echo
 
 cecho ${GOOD} "Once ready, hit enter to continue!"
-read
+#read
 
 ################################################################################
 # Output configuration details
@@ -964,7 +964,7 @@ fi
 # Force the user to accept the current output
 echo "-------------------------------------------------------------------------------"
 cecho ${GOOD} "Once ready, hit enter to continue!"
-read
+#read
 
 ################################################################################
 # Output configuration details
